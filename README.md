@@ -17,12 +17,6 @@ Disable Homebrew analytics:
 brew analytics off
 ```
 
-## Install mas
-Install mas:
-```
-brew install mas
-```
-
 ## Install Apps From Brewfile
 Download/run brewfile (Sign into App Store before running):
 ```

@@ -5,7 +5,12 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 
 # 'brew install'
+brew "mas"
+brew "git"
+brew "wget"
+brew "jq"
 brew "git-filter-repo"
+brew "cloudflare-wrangler2"
 
 # 'brew install --cask'
 cask "cleanmymac", greedy: true

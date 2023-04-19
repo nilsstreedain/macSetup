@@ -32,3 +32,4 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "PDF Squeezer", id: 1502111349
 mas "TestFlight", id: 899247664
+mas "Xcode", id: 497799835

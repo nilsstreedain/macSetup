@@ -14,13 +14,12 @@ brew "cloudflare-wrangler2"
 
 # 'brew install --cask'
 cask "cleanmymac", greedy: true
-cask "microsoft-teams", greedy: true
 cask "qflipper", greedy: true
 cask "zoom", greedy: true
 cask "discord-ptb", greedy: true
-cask "minecraft", greedy: true
 cask "prusaslicer", greedy: true
 cask "shottr", greedy: true
+cash "webex", greedy: true
 
 # 'mas install'
 mas "Affinity Designer", id: 824171161

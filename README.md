@@ -23,13 +23,8 @@ Install mas:
 brew install mas
 ```
 
-Signin to mas:
-```
-mas signin email@me.com
-```
-
 ## Install Apps From Brewfile
-Download/run brewfile:
+Download/run brewfile (Sign into App Store before running):
 ```
 brew bundle --file=<(curl -fsSL https://raw.githubusercontent.com/nilsstreedain/brewfile/main/Brewfile) 
 ```

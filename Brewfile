@@ -19,7 +19,7 @@ cask "zoom", greedy: true
 cask "discord-ptb", greedy: true
 cask "prusaslicer", greedy: true
 cask "shottr", greedy: true
-cash "webex", greedy: true
+cask "webex", greedy: true
 
 # 'mas install'
 mas "Affinity Designer", id: 824171161

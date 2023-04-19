@@ -15,7 +15,6 @@ brew "cloudflare-wrangler2"
 # 'brew install --cask'
 cask "cleanmymac", greedy: true
 cask "microsoft-teams", greedy: true
-cask "mysqlworkbench", greedy: true
 cask "qflipper", greedy: true
 cask "zoom", greedy: true
 cask "discord-ptb", greedy: true

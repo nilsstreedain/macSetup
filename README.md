@@ -12,6 +12,11 @@ Add Homebrew to PATH
 echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> $HOME/.zprofile
 ```
 
+Disable Homebrew analytics:
+```
+brew analytics off
+```
+
 ## Install mas
 Install mas:
 ```

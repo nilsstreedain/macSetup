@@ -22,3 +22,8 @@ Download/run brewfile (Sign into App Store before running):
 ```
 brew bundle --file=<(curl -fsSL https://raw.githubusercontent.com/nilsstreedain/brewfile/main/Brewfile) 
 ```
+
+Enable HomeBrew Auto-update
+```
+brew autoupdate start --upgrade --greedy --cleanup
+```

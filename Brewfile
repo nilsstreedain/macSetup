@@ -1,6 +1,4 @@
 # 'brew tap'
-tap "homebrew/cask-drivers"
-tap "homebrew/cask-versions"
 tap "homebrew/autoupdate"
 
 # 'brew install'

@@ -10,8 +10,6 @@ brew "git-filter-repo"
 brew "cloudflare-wrangler2"
 
 # 'brew install --cask'
-cask "cleanmymac", greedy: true
-cask "discord", greedy: true
 cask "prusaslicer", greedy: true
 cask "raspberry-pi-imager", greedy: true
 cask "shottr", greedy: true

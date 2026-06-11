@@ -4,18 +4,19 @@ tap "homebrew/autoupdate"
 # 'brew install'
 brew "mas"
 brew "git"
-brew "wget"
-brew "jq"
-brew "git-filter-repo"
-brew "cloudflare-wrangler2"
+brew "vapor"
 
 # 'brew install --cask'
-cask "prusaslicer", greedy: true
-cask "raspberry-pi-imager", greedy: true
+cask "docker-desktop", greedy: true
+cask "orchard", greedy: true
 cask "shottr", greedy: true
+cask "imazing-profile-editor", greedy: true
+cask "prusaslicer", greedy: true
+cask "tablepro", greedy: true
 
 # 'mas install'
-mas "Keynote", id: 409183694
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
+mas "Keynote", id: 361285480
+mas "Numbers", id: 361304891
+mas "Pages", id: 361309726
 mas "Xcode", id: 497799835
+mas "Pixelmator Pro", id: 1289583905
